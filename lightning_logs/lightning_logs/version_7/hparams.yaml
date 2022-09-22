@@ -177,8 +177,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
               gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
               AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
               aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
-              ZQpxAVgPAAAAMTA1NTUzMTY4ODExMzQ0cQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
-              NTUzMTY4ODExMzQ0cQFhLgEAAAAAAAAAAAAAAAAAAAA=
+              ZQpxAVgPAAAAMTA1NTUzMTE3NTk0NDAwcQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
+              NTUzMTE3NTk0NDAwcQFhLgEAAAAAAAAAAAAAAAAAAAA=
           - 0
           - !!python/tuple []
           - !!python/tuple []
@@ -191,8 +191,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
               gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
               AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
               aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
-              Z2UKcQFYDwAAADEwNTU1MzE2ODg2MTA1NnECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
-              NTU1MzE2ODg2MTA1NnEBYS4BAAAAAAAAAAAAAAA=
+              Z2UKcQFYDwAAADEwNTU1MzExNzU5NTYwMHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+              NTU1MzExNzU5NTYwMHEBYS4BAAAAAAAAAAAAAAA=
           - 0
           - !!python/tuple []
           - !!python/tuple []
@@ -238,8 +238,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
             gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
             AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
             aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
-            ZQpxAVgPAAAAMTA1NTUzMTY4ODExNTA0cQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
-            NTUzMTY4ODExNTA0cQFhLgEAAAAAAAAAAAAAAAAAAAA=
+            ZQpxAVgPAAAAMTA1NTUzMTE3NTk1MjAwcQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
+            NTUzMTE3NTk1MjAwcQFhLgEAAAAAAAAAAAAAAAAAAAA=
         - 0
         - !!python/tuple []
         - !!python/tuple []
@@ -252,8 +252,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
             gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
             AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
             aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
-            Z2UKcQFYDwAAADEwNTU1MzE2ODgxMTQyNHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
-            NTU1MzE2ODgxMTQyNHEBYS4BAAAAAAAAAAAAAAA=
+            Z2UKcQFYDwAAADEwNTU1MzExNzU5NDk2MHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+            NTU1MzExNzU5NDk2MHEBYS4BAAAAAAAAAAAAAAA=
         - 0
         - !!python/tuple []
         - !!python/tuple []
@@ -281,8 +281,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
               gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
               AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
               aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
-              ZQpxAVgPAAAAMTA1NTUzMTY4ODExNjY0cQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
-              NTUzMTY4ODExNjY0cQFhLgEAAAAAAAAAAAAAAAAAAAA=
+              ZQpxAVgPAAAAMTA1NTUzMTE3NTk0NTYwcQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
+              NTUzMTE3NTk0NTYwcQFhLgEAAAAAAAAAAAAAAAAAAAA=
           - 0
           - !!python/tuple []
           - !!python/tuple []
@@ -295,8 +295,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
               gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
               AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
               aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
-              Z2UKcQFYDwAAADEwNTU1MzE2ODgxMTU4NHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
-              NTU1MzE2ODgxMTU4NHEBYS4BAAAAAAAAAAAAAAA=
+              Z2UKcQFYDwAAADEwNTU1MzExNzgyODQxNnECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+              NTU1MzExNzgyODQxNnEBYS4BAAAAAAAAAAAAAAA=
           - 0
           - !!python/tuple []
           - !!python/tuple []
@@ -342,8 +342,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
             gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
             AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
             aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
-            ZQpxAVgPAAAAMTA1NTUzMTY4ODExODI0cQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
-            NTUzMTY4ODExODI0cQFhLgEAAAAAAAAAAAAAAAAAAAA=
+            ZQpxAVgPAAAAMTA1NTUzMTE3NTk1OTIwcQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
+            NTUzMTE3NTk1OTIwcQFhLgEAAAAAAAAAAAAAAAAAAAA=
         - 0
         - !!python/tuple []
         - !!python/tuple []
@@ -356,8 +356,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
             gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
             AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
             aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
-            Z2UKcQFYDwAAADEwNTU1MzE2ODgxMTc0NHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
-            NTU1MzE2ODgxMTc0NHEBYS4BAAAAAAAAAAAAAAA=
+            Z2UKcQFYDwAAADEwNTU1MzExNzU5NDQ4MHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+            NTU1MzExNzU5NDQ4MHEBYS4BAAAAAAAAAAAAAAA=
         - 0
         - !!python/tuple []
         - !!python/tuple []
@@ -385,8 +385,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
               gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
               AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
               aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
-              ZQpxAVgPAAAAMTA1NTUzMTY4ODExOTg0cQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
-              NTUzMTY4ODExOTg0cQFhLgEAAAAAAAAAAAAAAAAAAAA=
+              ZQpxAVgPAAAAMTA1NTUzMTE3NTk2MDgwcQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
+              NTUzMTE3NTk2MDgwcQFhLgEAAAAAAAAAAAAAAAAAAAA=
           - 0
           - !!python/tuple []
           - !!python/tuple []
@@ -399,8 +399,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
               gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
               AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
               aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
-              Z2UKcQFYDwAAADEwNTU1MzE2ODgxMTkwNHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
-              NTU1MzE2ODgxMTkwNHEBYS4BAAAAAAAAAAAAAAA=
+              Z2UKcQFYDwAAADEwNTU1MzExNzU5NjAwMHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+              NTU1MzExNzU5NjAwMHEBYS4BAAAAAAAAAAAAAAA=
           - 0
           - !!python/tuple []
           - !!python/tuple []
@@ -446,8 +446,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
             gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
             AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
             aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
-            ZQpxAVgPAAAAMTA1NTUzMTY4ODEyMTQ0cQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
-            NTUzMTY4ODEyMTQ0cQFhLgEAAAAAAAAAAAAAAAAAAAA=
+            ZQpxAVgPAAAAMTA1NTUzMTE3NTk2MjQwcQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
+            NTUzMTE3NTk2MjQwcQFhLgEAAAAAAAAAAAAAAAAAAAA=
         - 0
         - !!python/tuple []
         - !!python/tuple []
@@ -460,8 +460,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
             gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
             AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
             aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
-            Z2UKcQFYDwAAADEwNTU1MzE2ODgxMjA2NHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
-            NTU1MzE2ODgxMjA2NHEBYS4BAAAAAAAAAAAAAAA=
+            Z2UKcQFYDwAAADEwNTU1MzExNzU5NjE2MHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+            NTU1MzExNzU5NjE2MHEBYS4BAAAAAAAAAAAAAAA=
         - 0
         - !!python/tuple []
         - !!python/tuple []
@@ -489,8 +489,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
               gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
               AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
               aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
-              ZQpxAVgPAAAAMTA1NTUzMTY4ODEyMzA0cQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
-              NTUzMTY4ODEyMzA0cQFhLgEAAAAAAAAAAAAAAAAAAAA=
+              ZQpxAVgPAAAAMTA1NTUzMTE3NTk2NDAwcQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
+              NTUzMTE3NTk2NDAwcQFhLgEAAAAAAAAAAAAAAAAAAAA=
           - 0
           - !!python/tuple []
           - !!python/tuple []
@@ -503,8 +503,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
               gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
               AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
               aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
-              Z2UKcQFYDwAAADEwNTU1MzE2ODgxMjIyNHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
-              NTU1MzE2ODgxMjIyNHEBYS4BAAAAAAAAAAAAAAA=
+              Z2UKcQFYDwAAADEwNTU1MzExNzU5NjMyMHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+              NTU1MzExNzU5NjMyMHEBYS4BAAAAAAAAAAAAAAA=
           - 0
           - !!python/tuple []
           - !!python/tuple []
@@ -550,8 +550,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
             gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
             AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
             aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
-            ZQpxAVgPAAAAMTA1NTUzMTY4ODEyNDY0cQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
-            NTUzMTY4ODEyNDY0cQFhLgEAAAAAAAAAAAAAAAAAAAA=
+            ZQpxAVgPAAAAMTA1NTUzMTE3NTk2NDgwcQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
+            NTUzMTE3NTk2NDgwcQFhLgEAAAAAAAAAAAAAAAAAAAA=
         - 0
         - !!python/tuple []
         - !!python/tuple []
@@ -564,8 +564,8 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
             gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
             AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
             aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
-            Z2UKcQFYDwAAADEwNTU1MzE2ODgxMjM4NHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
-            NTU1MzE2ODgxMjM4NHEBYS4BAAAAAAAAAAAAAAA=
+            Z2UKcQFYDwAAADEwNTU1MzExNzQ3NjM2OHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+            NTU1MzExNzQ3NjM2OHEBYS4BAAAAAAAAAAAAAAA=
         - 0
         - !!python/tuple []
         - !!python/tuple []
@@ -584,7 +584,7 @@ logging_metrics: !!python/object:torch.nn.modules.container.ModuleList
   _state_dict_hooks: !!python/object/apply:collections.OrderedDict
   - []
   training: true
-loss: !!python/object:pytorch_forecasting.metrics.point.MASE
+loss: !!python/object:torchmetrics.regression.r2.R2Score
   _backward_hooks: !!python/object/apply:collections.OrderedDict
   - []
   _buffers: !!python/object/apply:collections.OrderedDict
@@ -592,28 +592,62 @@ loss: !!python/object:pytorch_forecasting.metrics.point.MASE
   _cache: null
   _computed: null
   _defaults:
-    lengths: !!python/object/apply:torch._utils._rebuild_tensor_v2
-    - !!python/object/apply:torch.storage._load_from_bytes
-      - !!binary |
-        gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
-        AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
-        aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
-        ZQpxAVgPAAAAMTA1NTUzMTY4ODYwMjU2cQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
-        NTUzMTY4ODYwMjU2cQFhLgEAAAAAAAAAAAAAAAAAAAA=
-    - 0
-    - !!python/tuple []
-    - !!python/tuple []
-    - false
-    - !!python/object/apply:collections.OrderedDict
-      - []
-    losses: !!python/object/apply:torch._utils._rebuild_tensor_v2
+    residual: !!python/object/apply:torch._utils._rebuild_tensor_v2
     - !!python/object/apply:torch.storage._load_from_bytes
       - !!binary |
         gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
         AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
         aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
-        Z2UKcQFYDwAAADEwNTU1MzE2ODg2MDU3NnECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
-        NTU1MzE2ODg2MDU3NnEBYS4BAAAAAAAAAAAAAAA=
+        Z2UKcQFYDwAAADEwNTU1MzExNzU5NDI0MHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+        NTU1MzExNzU5NDI0MHEBYS4BAAAAAAAAAAAAAAA=
+    - 0
+    - !!python/tuple
+      - 1
+    - !!python/tuple
+      - 1
+    - false
+    - !!python/object/apply:collections.OrderedDict
+      - []
+    sum_error: !!python/object/apply:torch._utils._rebuild_tensor_v2
+    - !!python/object/apply:torch.storage._load_from_bytes
+      - !!binary |
+        gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
+        AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
+        aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
+        Z2UKcQFYDwAAADEwNTU1MzExNzU5NDg4MHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+        NTU1MzExNzU5NDg4MHEBYS4BAAAAAAAAAAAAAAA=
+    - 0
+    - !!python/tuple
+      - 1
+    - !!python/tuple
+      - 1
+    - false
+    - !!python/object/apply:collections.OrderedDict
+      - []
+    sum_squared_error: !!python/object/apply:torch._utils._rebuild_tensor_v2
+    - !!python/object/apply:torch.storage._load_from_bytes
+      - !!binary |
+        gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
+        AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
+        aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
+        Z2UKcQFYDwAAADEwNTU1MzExNzU5NTQ0MHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+        NTU1MzExNzU5NTQ0MHEBYS4BAAAAAAAAAAAAAAA=
+    - 0
+    - !!python/tuple
+      - 1
+    - !!python/tuple
+      - 1
+    - false
+    - !!python/object/apply:collections.OrderedDict
+      - []
+    total: !!python/object/apply:torch._utils._rebuild_tensor_v2
+    - !!python/object/apply:torch.storage._load_from_bytes
+      - !!binary |
+        gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
+        AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
+        aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
+        ZQpxAVgPAAAAMTA1NTUzMTE3NTk1NTIwcQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
+        NTUzMTE3NTk1NTIwcQFhLgEAAAAAAAAAAAAAAAAAAAA=
     - 0
     - !!python/tuple []
     - !!python/tuple []
@@ -640,52 +674,90 @@ loss: !!python/object:pytorch_forecasting.metrics.point.MASE
   _parameters: !!python/object/apply:collections.OrderedDict
   - []
   _persistent:
-    lengths: false
-    losses: false
+    residual: false
+    sum_error: false
+    sum_squared_error: false
+    total: false
   _reductions:
-    lengths: *id001
-    losses: *id001
+    residual: *id001
+    sum_error: *id001
+    sum_squared_error: *id001
+    total: *id001
   _should_unsync: true
   _state_dict_hooks: !!python/object/apply:collections.OrderedDict
   - []
   _to_sync: true
   _update_count: 0
+  adjusted: 0
   compute_on_cpu: false
   dist_sync_fn: null
   dist_sync_on_step: false
-  lengths: !!python/object/apply:torch._utils._rebuild_tensor_v2
-  - !!python/object/apply:torch.storage._load_from_bytes
-    - !!binary |
-      gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
-      AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
-      aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
-      ZQpxAVgPAAAAMTA1NTUzMTY4ODU5NTM2cQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
-      NTUzMTY4ODU5NTM2cQFhLgEAAAAAAAAAAAAAAAAAAAA=
-  - 0
-  - !!python/tuple []
-  - !!python/tuple []
-  - false
-  - !!python/object/apply:collections.OrderedDict
-    - []
-  losses: !!python/object/apply:torch._utils._rebuild_tensor_v2
+  multioutput: uniform_average
+  num_outputs: 1
+  process_group: null
+  residual: !!python/object/apply:torch._utils._rebuild_tensor_v2
   - !!python/object/apply:torch.storage._load_from_bytes
     - !!binary |
       gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
       AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
       aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
-      Z2UKcQFYDwAAADEwNTU1MzE2ODg2MDE3NnECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
-      NTU1MzE2ODg2MDE3NnEBYS4BAAAAAAAAAAAAAAA=
+      Z2UKcQFYDwAAADEwNTU1MzExNzU5NDcyMHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+      NTU1MzExNzU5NDcyMHEBYS4BAAAAAAAAAAAAAAA=
+  - 0
+  - !!python/tuple
+    - 1
+  - !!python/tuple
+    - 1
+  - false
+  - !!python/object/apply:collections.OrderedDict
+    - []
+  sum_error: !!python/object/apply:torch._utils._rebuild_tensor_v2
+  - !!python/object/apply:torch.storage._load_from_bytes
+    - !!binary |
+      gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
+      AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
+      aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
+      Z2UKcQFYDwAAADEwNTU1MzExNzU5NTI4MHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+      NTU1MzExNzU5NTI4MHEBYS4BAAAAAAAAAAAAAAA=
+  - 0
+  - !!python/tuple
+    - 1
+  - !!python/tuple
+    - 1
+  - false
+  - !!python/object/apply:collections.OrderedDict
+    - []
+  sum_squared_error: !!python/object/apply:torch._utils._rebuild_tensor_v2
+  - !!python/object/apply:torch.storage._load_from_bytes
+    - !!binary |
+      gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
+      AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
+      aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
+      Z2UKcQFYDwAAADEwNTU1MzExNzU5NTA0MHECWAMAAABjcHVxA0sBTnRxBFEugAJdcQBYDwAAADEw
+      NTU1MzExNzU5NTA0MHEBYS4BAAAAAAAAAAAAAAA=
+  - 0
+  - !!python/tuple
+    - 1
+  - !!python/tuple
+    - 1
+  - false
+  - !!python/object/apply:collections.OrderedDict
+    - []
+  sync_on_compute: true
+  total: !!python/object/apply:torch._utils._rebuild_tensor_v2
+  - !!python/object/apply:torch.storage._load_from_bytes
+    - !!binary |
+      gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
+      AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
+      aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApMb25nU3RvcmFn
+      ZQpxAVgPAAAAMTA1NTUzMTE3NTk1MzYwcQJYAwAAAGNwdXEDSwFOdHEEUS6AAl1xAFgPAAAAMTA1
+      NTUzMTE3NTk1MzYwcQFhLgEAAAAAAAAAAAAAAAAAAAA=
   - 0
   - !!python/tuple []
   - !!python/tuple []
   - false
   - !!python/object/apply:collections.OrderedDict
     - []
-  name: MASE
-  process_group: null
-  quantiles: null
-  reduction: mean
-  sync_on_compute: true
   training: true
 lstm_layers: 1
 max_encoder_length: 24
