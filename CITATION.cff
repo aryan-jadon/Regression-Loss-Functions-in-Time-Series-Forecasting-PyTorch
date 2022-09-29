@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Evaluating Regression Loss Functions in Time-Series
+  Forecasting using PyTorch Forecasting Library
+message: >-
+  https://github.com/aryan-jadon/Regression-Loss-Functions-in-Time-Series-Forecasting-PyTorch
+type: software
+authors:
+  - given-names: Aryan
+    name-particle: Aryan
+    family-names: Jadon
+    email: aryan.jadon@sjsu.edu
+    affiliation: San Jose State University
+    orcid: 'https://orcid.org/0000-0002-2991-9913'
