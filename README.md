@@ -27,6 +27,24 @@ Paper Link: https://arxiv.org/pdf/1912.09363.pdf
 # Experiments Summary
 Dataset Used for this experiment - https://www.kaggle.com/datasets/utathya/future-volume-prediction
 
+Parameters Used During Experiments -
+
+learning_rate = 0.03
+hidden_size = 16 
+attention_head_size = 1
+dropout = 0.1
+hidden_continuous_size = 8
+
+| Loss Function                                  |    Value    |
+|:-----------------------------------------------|:-----------:| 
+| Mean Absolute Percentage Error Loss            | 258170080.0 |
+| Mean Squared Error Loss                        |  501227.06  |
+| Quantile Loss                                  |  1462.5258  |
+| Root Mean Square Error Loss                    |   683.93    |
+| Mean Absolute Scaled Error Loss                |   288.15    |
+| Mean Absolute Error Loss                       |   264.46    |
+| Symmetric Mean Absolute Percentage Loss        |    0.40     |
+| Mean Squared Log Error Loss                    |   0.34      |
 
 ## How To Replicate This Experiment
 
@@ -66,5 +84,5 @@ conda install -c conda-forge torchmetrics
 ### Step 2: Running Experiment Notebooks
 ```bash
 jupyter notebook
-```bash
+```
 
