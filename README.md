@@ -1,4 +1,5 @@
 # Regression Loss Functions Performance Evaluation in Time Series Forecasting using Temporal Fusion Transformers
+[![DOI](https://zenodo.org/badge/539733786.svg)](https://zenodo.org/badge/latestdoi/539733786)
 
 ```
 This repository compares the performance of 8 different regression loss functions used 
@@ -48,6 +49,26 @@ Parameters Used During Experiments -
 | Mean Absolute Error Loss                       |   264.46    |
 | Symmetric Mean Absolute Percentage Loss        |    0.40     |
 | Mean Squared Log Error Loss                    |   0.34      |
+
+### Cite This Repository Work
+
+BibTex
+```
+@software{jadon_aryan_2022_7127163,
+  author       = {Jadon, Aryan},
+  title        = {{Evaluating Regression Loss Functions in Time- 
+                   Series Forecasting using PyTorch Forecasting
+                   Library}},
+  month        = sep,
+  year         = 2022,
+  note         = {{https://github.com/aryan-jadon/Regression-Loss- 
+                   Functions-in-Time-Series-Forecasting-PyTorch}},
+  publisher    = {Zenodo},
+  version      = {0.1.0},
+  doi          = {10.5281/zenodo.7127163},
+  url          = {https://doi.org/10.5281/zenodo.7127163}
+}
+```
 
 ## How To Replicate This Experiment
 
