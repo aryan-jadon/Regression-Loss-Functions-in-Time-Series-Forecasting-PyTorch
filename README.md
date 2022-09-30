@@ -1,8 +1,9 @@
 # Regression Loss Functions Performance Evaluation in Time Series Forecasting using Temporal Fusion Transformers
 
 ```
-This repository compares the performance of 8 different regression loss functions used in Time Series Forecasting using 
-Temporal Fusion Transformers. Summary of experiment with instructions on how to replicate this experiment can be find below.
+This repository compares the performance of 8 different regression loss functions used 
+in Time Series Forecasting using  Temporal Fusion Transformers. Summary of experiment with 
+instructions on how to replicate this experiment can be find below.
 ```
 
 ## About Temporal Fusion Transformers
