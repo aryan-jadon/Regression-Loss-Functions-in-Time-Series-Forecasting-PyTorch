@@ -29,11 +29,14 @@ Dataset Used for this experiment - https://www.kaggle.com/datasets/utathya/futur
 
 Parameters Used During Experiments -
 
-learning_rate = 0.03
-hidden_size = 16 
-attention_head_size = 1
-dropout = 0.1
-hidden_continuous_size = 8
+| Parameters                                       | Value |
+|:------------------------------------------------------|:-----:| 
+| learning_rate                                         | 0.03  |
+| hidden_size                                           |  16   |
+| attention_head_size                                   |   1   |
+| dropout                                               |  0.1  |
+| hidden_continuous_size                                |  8    |
+
 
 | Loss Function                                  |    Value    |
 |:-----------------------------------------------|:-----------:| 
