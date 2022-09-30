@@ -70,6 +70,11 @@ BibTex
 }
 ```
 
+APA 
+```
+Jadon, A. (2022). Evaluating Regression Loss Functions in Time Series Forecasting using PyTorch Forecasting Library (Version 0.1.0) [Computer software]. https://doi.org/10.5281/zenodo.7127163
+```
+
 ## How To Replicate This Experiment
 
 ### Step 1: Install the Requirements
