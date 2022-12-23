@@ -25,8 +25,24 @@ Paper Link: https://arxiv.org/pdf/1912.09363.pdf
 > we demonstrate significant performance improvements over existing benchmarks, and showcase three practical 
 > interpretability use-cases of TFT.
 
-# Experiments Summary
-Dataset Used for this experiment - https://www.kaggle.com/datasets/utathya/future-volume-prediction
+## Experiments Summary
+
+### Cite Our Paper
+```
+@misc{jadon2022comprehensive,
+      title={A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting}, 
+      author={Aryan Jadon and Avinash Patil and Shruti Jadon},
+      year={2022},
+      eprint={2211.02989},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+#### Our Paper Link - https://arxiv.org/abs/2211.02989
+
+![Summary of Loss Functions](https://github.com/aryan-jadon/Regression-Loss-Functions-in-Time-Series-Forecasting-Tensorflow/blob/main/loss_functions_plots/Loss-Functions-Summary.png)
+
+##### Dataset Used for this experiment - https://www.kaggle.com/datasets/utathya/future-volume-prediction
 
 Parameters Used During Experiments -
 
@@ -50,30 +66,6 @@ Parameters Used During Experiments -
 | Symmetric Mean Absolute Percentage Loss        |    0.40     |
 | Mean Squared Log Error Loss                    |   0.34      |
 
-### Cite This Repository Work
-
-BibTex
-```
-@software{jadon_aryan_2022_7127163,
-  author       = {Jadon, Aryan},
-  title        = {{Evaluating Regression Loss Functions in Time- 
-                   Series Forecasting using PyTorch Forecasting
-                   Library}},
-  month        = sep,
-  year         = 2022,
-  note         = {{https://github.com/aryan-jadon/Regression-Loss- 
-                   Functions-in-Time-Series-Forecasting-PyTorch}},
-  publisher    = {Zenodo},
-  version      = {0.1.0},
-  doi          = {10.5281/zenodo.7127163},
-  url          = {https://doi.org/10.5281/zenodo.7127163}
-}
-```
-
-APA 
-```
-Jadon, A. (2022). Evaluating Regression Loss Functions in Time Series Forecasting using PyTorch Forecasting Library (Version 0.1.0) [Computer software]. https://doi.org/10.5281/zenodo.7127163
-```
 
 ## How To Replicate This Experiment
 
@@ -91,7 +83,7 @@ Otherwise, you can proceed with
 pip install pytorch-forecasting
 ```
 
-Alternatively, to installl the package via conda:
+Alternatively, to install the package via conda:
 ```bash
 conda install pytorch-forecasting pytorch>=1.7 -c pytorch -c conda-forge
 ```
