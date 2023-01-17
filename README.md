@@ -8,9 +8,10 @@ instructions on how to replicate this experiment can be find below.
 ```
 
 ## About Temporal Fusion Transformers
-Authors: Bryan Lim, Sercan Arik, Nicolas Loeff and Tomas Pfister
 
 Paper Link: https://arxiv.org/pdf/1912.09363.pdf 
+
+Authors: Bryan Lim, Sercan Arik, Nicolas Loeff and Tomas Pfister
 
 > Abstract - Multi-horizon forecasting problems often contain a complex mix of inputs -- including static (i.e. time-invariant) 
 > covariates, known future inputs, and other exogenous time series that are only observed historically -- without any 
@@ -25,9 +26,10 @@ Paper Link: https://arxiv.org/pdf/1912.09363.pdf
 > we demonstrate significant performance improvements over existing benchmarks, and showcase three practical 
 > interpretability use-cases of TFT.
 
-## Experiments Summary
+## Experiments Summary and Our Paper
 
 ### Cite Our Paper
+
 ```
 @misc{jadon2022comprehensive,
       title={A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting}, 
@@ -38,11 +40,12 @@ Paper Link: https://arxiv.org/pdf/1912.09363.pdf
       primaryClass={cs.LG}
 }
 ```
-#### Our Paper Link - https://arxiv.org/abs/2211.02989
+
+### Our Paper Link - https://arxiv.org/abs/2211.02989
 
 ![Summary of Loss Functions](https://github.com/aryan-jadon/Regression-Loss-Functions-in-Time-Series-Forecasting-Tensorflow/blob/main/loss_functions_plots/Loss-Functions-Summary.png)
 
-##### Dataset Used for this experiment - https://www.kaggle.com/datasets/utathya/future-volume-prediction
+### Dataset Used for this experiment - https://www.kaggle.com/datasets/utathya/future-volume-prediction
 
 Parameters Used During Experiments -
 
@@ -67,7 +70,7 @@ Parameters Used During Experiments -
 | Mean Squared Log Error Loss                    |   0.34      |
 
 
-## How To Replicate This Experiment
+## Replicate This Experiment
 
 ### Step 1: Install the Requirements
 
@@ -103,6 +106,7 @@ conda install -c conda-forge torchmetrics
 ```
 
 ### Step 2: Running Experiment Notebooks
+
 ```bash
 jupyter notebook
 ```
