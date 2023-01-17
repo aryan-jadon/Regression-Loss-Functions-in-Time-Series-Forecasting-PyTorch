@@ -1,5 +1,5 @@
 # Regression Loss Functions Performance Evaluation in Time Series Forecasting using Temporal Fusion Transformers
-[![DOI](https://zenodo.org/badge/539733786.svg)](https://zenodo.org/badge/latestdoi/539733786)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7542536.svg)](https://doi.org/10.5281/zenodo.7542536)
 
 ```
 This repository compares the performance of 8 different regression loss functions used 
