@@ -31,17 +31,19 @@ Authors: Bryan Lim, Sercan Arik, Nicolas Loeff and Tomas Pfister
 ### Cite Our Paper
 
 ```
-@misc{jadon2022comprehensive,
-      title={A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting}, 
-      author={Aryan Jadon and Avinash Patil and Shruti Jadon},
-      year={2022},
-      eprint={2211.02989},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{jadon2024comprehensive,
+  title={A comprehensive survey of regression-based loss functions for time series forecasting},
+  author={Jadon, Aryan and Patil, Avinash and Jadon, Shruti},
+  booktitle={International Conference on Data Management, Analytics \& Innovation},
+  pages={117--147},
+  year={2024},
+  organization={Springer}
 }
 ```
 
-### Our Paper Link - https://arxiv.org/abs/2211.02989
+### Paper Links
+1. https://link.springer.com/chapter/10.1007/978-981-97-3245-6_9
+2. https://arxiv.org/abs/2211.02989
 
 ![Summary of Loss Functions](https://github.com/aryan-jadon/Regression-Loss-Functions-in-Time-Series-Forecasting-Tensorflow/blob/main/loss_functions_plots/Loss-Functions-Summary.png)
 
